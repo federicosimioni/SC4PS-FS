@@ -1,0 +1,8 @@
+# Configuration file for daxpy_chunked
+# format: Variable = Value
+n = 1000000
+chunk_size = 8
+a = 3.0
+x = 0.1
+y = 7.1
+output_file = output.h5
